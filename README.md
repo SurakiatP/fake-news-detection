@@ -129,7 +129,7 @@ The results, including models, reports, and visualizations, will be saved in the
 
 ---
 
-## 👤 Project Author
+## Project Author
 
 | Name           | Contact Information                                                  |
 |----------------|----------------------------------------------------------------------|
